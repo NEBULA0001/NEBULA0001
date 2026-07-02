@@ -1,7 +1,6 @@
 ## Hi I am Caleb,👋
 
-<!--
-**NEBULA0001/NEBULA0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 [!["AWS Educate Introduction to Cloud 101"](aws-educate-introduction-to-cloud-101-....png)](https://www.credly.com/badges/7ad9f618-fdc2-49f3-95b3-600170151830/public_url)
 
 Here are some ideas to get you started:
 
